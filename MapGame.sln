@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapGame.API", "MapGame.API\MapGame.API.csproj", "{126B457E-5B38-4003-917A-601F5F6AF774}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MapGame.API", "MapGame.API\MapGame.API.csproj", "{126B457E-5B38-4003-917A-601F5F6AF774}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapGame.Web", "MapGame.Web\MapGame.Web.csproj", "{5B00189F-BF09-4A73-A6FE-6D2F49392E0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{126B457E-5B38-4003-917A-601F5F6AF774}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{126B457E-5B38-4003-917A-601F5F6AF774}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{126B457E-5B38-4003-917A-601F5F6AF774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B00189F-BF09-4A73-A6FE-6D2F49392E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B00189F-BF09-4A73-A6FE-6D2F49392E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B00189F-BF09-4A73-A6FE-6D2F49392E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B00189F-BF09-4A73-A6FE-6D2F49392E0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
