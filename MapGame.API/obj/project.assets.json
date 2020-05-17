@@ -6077,11 +6077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Serifoglu\\source\\repos\\MapGame\\MapGame.API\\MapGame.API.csproj",
+      "projectUniqueName": "C:\\Users\\Serifoglu\\Source\\Repos\\SerdarSerifoglu\\MapGame\\MapGame.API\\MapGame.API.csproj",
       "projectName": "MapGame.API",
-      "projectPath": "C:\\Users\\Serifoglu\\source\\repos\\MapGame\\MapGame.API\\MapGame.API.csproj",
+      "projectPath": "C:\\Users\\Serifoglu\\Source\\Repos\\SerdarSerifoglu\\MapGame\\MapGame.API\\MapGame.API.csproj",
       "packagesPath": "C:\\Users\\Serifoglu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Serifoglu\\source\\repos\\MapGame\\MapGame.API\\obj\\",
+      "outputPath": "C:\\Users\\Serifoglu\\Source\\Repos\\SerdarSerifoglu\\MapGame\\MapGame.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
