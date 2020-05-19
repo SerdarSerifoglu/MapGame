@@ -1,0 +1,15 @@
+﻿body {
+}
+
+#gameboard{
+    height:400px;
+    width:400px;
+    background-color:#ff6a00;
+} 
+
+.piece {
+    height: 20px;
+    width: 20px;
+    border:1px solid #808080;
+    background:#4cff00;
+}

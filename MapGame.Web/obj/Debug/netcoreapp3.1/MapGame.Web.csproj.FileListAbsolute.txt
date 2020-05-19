@@ -2,7 +2,6 @@ C:\Users\Serifoglu\source\repos\SerdarSerifoglu\MapGame\MapGame.Web\bin\Debug\ne
 C:\Users\Serifoglu\source\repos\SerdarSerifoglu\MapGame\MapGame.Web\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Serifoglu\source\repos\SerdarSerifoglu\MapGame\MapGame.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\Serifoglu\source\repos\SerdarSerifoglu\MapGame\MapGame.Web\bin\Debug\netcoreapp3.1\MapGame.Web.exe
-C:\Users\Serifoglu\source\repos\SerdarSerifoglu\MapGame\MapGame.Web\obj\Debug\netcoreapp3.1\MapGame.Web.csprojAssemblyReference.cache
 C:\Users\Serifoglu\source\repos\SerdarSerifoglu\MapGame\MapGame.Web\obj\Debug\netcoreapp3.1\staticwebassets\MapGame.Web.StaticWebAssets.Manifest.cache
 C:\Users\Serifoglu\source\repos\SerdarSerifoglu\MapGame\MapGame.Web\obj\Debug\netcoreapp3.1\staticwebassets\MapGame.Web.StaticWebAssets.xml
 C:\Users\Serifoglu\source\repos\SerdarSerifoglu\MapGame\MapGame.Web\obj\Debug\netcoreapp3.1\MapGame.Web.RazorAssemblyInfo.cache
@@ -102,3 +101,5 @@ C:\Users\Serifoglu\source\repos\SerdarSerifoglu\MapGame\MapGame.Web\obj\Debug\ne
 C:\Users\Serifoglu\source\repos\SerdarSerifoglu\MapGame\MapGame.Web\obj\Debug\netcoreapp3.1\MapGame.Web.pdb
 C:\Users\Serifoglu\source\repos\SerdarSerifoglu\MapGame\MapGame.Web\obj\Debug\netcoreapp3.1\Razor\Views\_Layout.cshtml.g.cs
 C:\Users\Serifoglu\source\repos\SerdarSerifoglu\MapGame\MapGame.Web\obj\Debug\netcoreapp3.1\Razor\Views\Game\Index.cshtml.g.cs
+C:\Users\Serifoglu\source\repos\SerdarSerifoglu\MapGame\MapGame.Web\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Serifoglu\source\repos\SerdarSerifoglu\MapGame\MapGame.Web\obj\Debug\netcoreapp3.1\MapGame.Web.csprojAssemblyReference.cache

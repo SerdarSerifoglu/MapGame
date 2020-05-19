@@ -1,24 +1,11 @@
 ﻿
-@{
-    //ViewData["Title"] = "Index";
-    Layout = "~/Views/_Layout.cshtml";
-}
-
-<div class="row" id="gameboard" onload="loadTime()">
-
-</div>
-
-<script src="~/lib/@@microsoft/signalr/dist/browser/signalr.js"></script>
-@*<script src="~/js/game.js"></script>*@
-<script>
-    
 
 
 
 document.body.onload = function () {
 createPiece();
     createPiece();
-    var connection = new signalR.HubConnectionBuilder().withAutomaticReconnect([1000, 1000, 3000, 3000]).withUrl("http://localhost:51329/GameHub").configureLogging(signalR.LogLevel.Information).build();
+    var connection = new signalR.HubConnectionBuilder().withAutomaticReconnect([1000, 1000, 3000, 3000]).withUrl("https://localhost:44357/GameHub").configureLogging(signalR.LogLevel.Information).build();
     startConnection();
     console.log(connection);
     function startConnection() {
@@ -45,9 +32,5 @@ function createPiece() {
     document.getElementById("gameboard").appendChild(newDiv)
 };
 
-
-
-
-</script>
 
 

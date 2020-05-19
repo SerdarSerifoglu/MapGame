@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Serifoglu\\source\\repos\\SerdarSerifoglu\\MapGame\\MapGame.Web\\MapGame.Web.csproj": {}
+    "C:\\Users\\Serifoglu\\Source\\Repos\\SerdarSerifoglu\\MapGame\\MapGame.Web\\MapGame.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Serifoglu\\source\\repos\\SerdarSerifoglu\\MapGame\\MapGame.Web\\MapGame.Web.csproj": {
+    "C:\\Users\\Serifoglu\\Source\\Repos\\SerdarSerifoglu\\MapGame\\MapGame.Web\\MapGame.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Serifoglu\\source\\repos\\SerdarSerifoglu\\MapGame\\MapGame.Web\\MapGame.Web.csproj",
+        "projectUniqueName": "C:\\Users\\Serifoglu\\Source\\Repos\\SerdarSerifoglu\\MapGame\\MapGame.Web\\MapGame.Web.csproj",
         "projectName": "MapGame.Web",
-        "projectPath": "C:\\Users\\Serifoglu\\source\\repos\\SerdarSerifoglu\\MapGame\\MapGame.Web\\MapGame.Web.csproj",
+        "projectPath": "C:\\Users\\Serifoglu\\Source\\Repos\\SerdarSerifoglu\\MapGame\\MapGame.Web\\MapGame.Web.csproj",
         "packagesPath": "C:\\Users\\Serifoglu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Serifoglu\\source\\repos\\SerdarSerifoglu\\MapGame\\MapGame.Web\\obj\\",
+        "outputPath": "C:\\Users\\Serifoglu\\Source\\Repos\\SerdarSerifoglu\\MapGame\\MapGame.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

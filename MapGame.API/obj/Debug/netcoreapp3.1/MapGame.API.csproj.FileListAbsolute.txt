@@ -172,7 +172,6 @@ C:\Users\Serifoglu\Source\Repos\SerdarSerifoglu\MapGame\MapGame.API\bin\Debug\ne
 C:\Users\Serifoglu\Source\Repos\SerdarSerifoglu\MapGame\MapGame.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Serifoglu\Source\Repos\SerdarSerifoglu\MapGame\MapGame.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Serifoglu\Source\Repos\SerdarSerifoglu\MapGame\MapGame.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Serifoglu\Source\Repos\SerdarSerifoglu\MapGame\MapGame.API\obj\Debug\netcoreapp3.1\MapGame.API.csprojAssemblyReference.cache
 C:\Users\Serifoglu\Source\Repos\SerdarSerifoglu\MapGame\MapGame.API\obj\Debug\netcoreapp3.1\staticwebassets\MapGame.API.StaticWebAssets.Manifest.cache
 C:\Users\Serifoglu\Source\Repos\SerdarSerifoglu\MapGame\MapGame.API\obj\Debug\netcoreapp3.1\staticwebassets\MapGame.API.StaticWebAssets.xml
 C:\Users\Serifoglu\Source\Repos\SerdarSerifoglu\MapGame\MapGame.API\obj\Debug\netcoreapp3.1\MapGame.API.MvcApplicationPartsAssemblyInfo.cache
@@ -182,3 +181,4 @@ C:\Users\Serifoglu\Source\Repos\SerdarSerifoglu\MapGame\MapGame.API\obj\Debug\ne
 C:\Users\Serifoglu\Source\Repos\SerdarSerifoglu\MapGame\MapGame.API\obj\Debug\netcoreapp3.1\MapGame.API.csproj.CopyComplete
 C:\Users\Serifoglu\Source\Repos\SerdarSerifoglu\MapGame\MapGame.API\obj\Debug\netcoreapp3.1\MapGame.API.dll
 C:\Users\Serifoglu\Source\Repos\SerdarSerifoglu\MapGame\MapGame.API\obj\Debug\netcoreapp3.1\MapGame.API.pdb
+C:\Users\Serifoglu\Source\Repos\SerdarSerifoglu\MapGame\MapGame.API\obj\Debug\netcoreapp3.1\MapGame.API.csprojAssemblyReference.cache
